@@ -4,6 +4,7 @@ O que é necessário?
 
 - Patrocinadores
 - Palestrantes
+  - [Call4Papers](http://call4papers-jugvale.rhcloud.com/)
 - Organizadores
   - Sobre Organização
   - Projetos
